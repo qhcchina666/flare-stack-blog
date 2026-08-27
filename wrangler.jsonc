@@ -10,8 +10,8 @@
   "keep_vars": true,
   "routes": [
     {
-      "pattern": "DOMAIN_PLACEHOLDER",
-      "custom_domain": true
+      "pattern": "blogy.qhc.cc.cd/*",
+      "zone_name": "qhc.cc.cd"
     }
   ],
   "d1_databases": [

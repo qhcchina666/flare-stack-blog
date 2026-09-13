@@ -10,6 +10,7 @@ export const blogConfig = {
     { platform: "email", url: "mailto:example@email.com" },
     { platform: "rss", url: "/rss.xml" },
   ],
+  navLinks: [],
   icons: {
     faviconSvg: "/favicon.svg",
     faviconIco: "/favicon.ico",
@@ -19,9 +20,6 @@ export const blogConfig = {
     webApp512: "/web-app-manifest-512x512.png",
   },
   theme: {
-    default: {
-      navBarName: "导航栏名称",
-    },
     fuwari: {
       homeBg: "/images/home-bg.webp",
       avatar: "/images/avatar.png",

@@ -4,7 +4,7 @@
 
 # Flare Stack Blog
 
-基于 **Cloudflare 边缘生态**打造的高性能全栈博客与 CMS 系统<br>
+QHC部署 仅供学习使用基于 **Cloudflare 边缘生态**打造的高性能全栈博客与 CMS 系统<br>
 利用 Workers、D1、R2、KV 与 Queues 实现真正的全 Serverless 架构
 
 [![License](https://img.shields.io/github/license/du2333/flare-stack-blog?style=flat-square)](https://github.com/du2333/flare-stack-blog/blob/main/LICENSE)
